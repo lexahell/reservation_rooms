@@ -16,6 +16,7 @@
 - FastAPI Users = библиотека для регистрации и аутентификации пользователей в FastApi
 - SQLAlchemy = ORM для работы с РСУБД
 - Alembic = для миграций БД
+- PostgreSQL = СУБД
 - Pydantic = валидация данных с использованией тайп-хитингов
 - Aiosqlite = асинхронный интерфейс для PostreSQL
 - Uvicorn = ASGI веб-сервер
